@@ -95,10 +95,6 @@ body {
   padding: 0;
 }
 
-#creator {
-  text-align: left;
-  padding: 2rem 0 0;
-}
 
 /* mobile-devices */
 @media (max-width: 600px) {
